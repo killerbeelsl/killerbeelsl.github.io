@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bibek</title>
-    <link>https://bibek94.github.io/</link>
-    <description>Recent content on Bibek</description>
+    <title>Blogs on Bibek</title>
+    <link>https://bibek94.github.io/blogs/</link>
+    <description>Recent content in Blogs on Bibek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Nov 2018 14:58:52 +0530</lastBuildDate>
     
-	<atom:link href="https://bibek94.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bibek94.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
