@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bibek</title>
-    <link>https://bibek94.github.io/</link>
+    <link>https://killerbeelsl.github.io/</link>
     <description>Recent content on Bibek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Nov 2018 14:58:52 +0530</lastBuildDate>
     
-	<atom:link href="https://bibek94.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://killerbeelsl.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MyFirst</title>
-      <link>https://bibek94.github.io/blogs/machinelearning/myfirst/</link>
+      <link>https://killerbeelsl.github.io/blogs/machinelearning/myfirst/</link>
       <pubDate>Thu, 01 Nov 2018 14:58:52 +0530</pubDate>
       
-      <guid>https://bibek94.github.io/blogs/machinelearning/myfirst/</guid>
+      <guid>https://killerbeelsl.github.io/blogs/machinelearning/myfirst/</guid>
       <description>Welcome to my first machine learning blog. lol my name is bibek lamsal</description>
     </item>
     
